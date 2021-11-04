@@ -1,11 +1,7 @@
-#div {
-    margin-bottom: 10px;
-    background-color: gold;
-    border: solid 4px black;
-    color:navy
-}
-#h1 {
-    color:seagreen;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-}
+.row {
+    margin-bottom: 15px;
+  }
+  .row > div {
+    border: 2px solid blue;
+    background-color: wheat;
+  }

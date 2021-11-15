@@ -4,6 +4,10 @@
   .row > div {
     border: 2px solid blue;
     background-color: wheat;
+    margin-left: 10px;
+    margin-left: 10px;
+    margin-top: 25px;
+    margin-bottom: 20px;
   }
   h1 {
       text-align: center;

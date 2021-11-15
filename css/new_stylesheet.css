@@ -11,3 +11,9 @@
       background-color: cyan;
       color: slategray;
   }
+  button,
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: button;
+}

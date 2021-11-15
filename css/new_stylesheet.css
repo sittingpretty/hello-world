@@ -29,5 +29,5 @@
    border: none;
  }
  #p2 {
-   background-image: "file:///C:/Users/chesl/onedrive/pictures/meir crawling.jpg";
+   background-image: url("file:///C:/Users/chesl/onedrive/pictures/meir crawling.jpg");
  }

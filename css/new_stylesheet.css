@@ -29,4 +29,8 @@
   height: 150px;
   margin: 10px 15px 10px 0;
  }
- 
+ a {
+   color:blueviolet;
+   height:75px;
+   width:75px;
+ }

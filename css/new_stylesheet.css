@@ -23,13 +23,9 @@
    font-weight: bold;
    background-color: darkturquoise;
  }
- img {
-   height:60px;
-   width:80px;
-   border: none;
- }
  #p2 {
-   background-image: url("file:///C:/Users/chesl/onedrive/pictures/meir crawling.jpg");
-   margin:0px;
-   image-orientation: inherit;
+  background: url("file:///C:/Users/chesl/onedrive/pictures/meir crawling.jpg") no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
  }

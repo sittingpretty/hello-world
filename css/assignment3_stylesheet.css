@@ -32,13 +32,13 @@ body {
     font-size: 35px;
   }
   div {
-      background-color: thistle;
+      background-color: gray;
       margin: 10px;
       border:black solid 2px;
       text-align: justify;
       padding:10px;
   }
   #div1 {
-      background-color: tomato;
+      background-color:turquoise;
       border:none;
   }

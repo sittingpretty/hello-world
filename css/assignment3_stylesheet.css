@@ -5,10 +5,11 @@ body {
     color:black;
     font-size: 20px;
     text-align: center;
+    padding-top: 10px;
   }
   
   #navbar {
-    background-color:whitesmoke;
+    background-color:turquoise;
     position: fixed;
     font-size: 35px;
     top: 0;
@@ -20,14 +21,14 @@ body {
   #navbar a {
     float: left;
     display: block;
-    color:whitesmoke;
+    color:turquoise;
     padding: 15px;
     text-decoration: none;
     font-size: 35px;
   }
   
   #navbar a:hover {
-    background-color: white;
+    background-color: turquoise;
     color: black;
     font-size: 35px;
   }
@@ -40,5 +41,4 @@ body {
   }
   #div1 {
       background-color:turquoise;
-      border:none;
   }

@@ -40,3 +40,7 @@ body {
       text-align: justify;
       padding:10px;
   }
+  #div1 {
+      background-color: tomato;
+      border:none;
+  }

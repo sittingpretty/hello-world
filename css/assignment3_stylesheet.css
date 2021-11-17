@@ -10,6 +10,7 @@ body {
   #navbar {
     background-color:cyan;
     position: fixed;
+    font-size: 35px;
     top: 0;
     width: 100%;
     display: block;
@@ -23,7 +24,7 @@ body {
     text-align: center;
     padding: 15px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 35px;
   }
   
   #navbar a:hover {

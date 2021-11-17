@@ -37,7 +37,6 @@ body {
       border:black solid 2px;
       text-align: justify;
       padding:10px;
-      margin:15px;
   }
   #div1 {
       background-color:turquoise;
@@ -47,6 +46,4 @@ body {
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       font-weight: bold;
   }
-  .navbar {
-      height:100px;
-  }
+ 

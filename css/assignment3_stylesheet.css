@@ -43,8 +43,10 @@ body {
   #div1 {
       background-color:turquoise;
       font-weight: bold;
-    
-  }
+    }
+    #div2 {
+        margin-bottom: 20px;
+    }
   h1 {
       font-family: Verdana, Geneva, Tahoma, sans-serif;
       font-weight: bold;

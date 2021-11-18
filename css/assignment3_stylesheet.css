@@ -42,7 +42,8 @@ body {
   }
   #div1 {
       background-color:turquoise;
-
+      font-weight: bold;
+    
   }
   h1 {
       font-family: Verdana, Geneva, Tahoma, sans-serif;

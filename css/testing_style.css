@@ -9,3 +9,8 @@
 body {
     background-color: cadetblue;
 }
+.wrapper {
+    position:absolute;
+    top: 25%;
+    right:10%;
+}

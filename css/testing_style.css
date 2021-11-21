@@ -12,6 +12,6 @@ body {
 .wrapper {
     position:absolute;
     top: 25%;
-    right:10%;
+    left: 50%;
     transform: translate(-50%, -50%);
 }

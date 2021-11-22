@@ -35,9 +35,12 @@ body {
     position: absolute;
     right: 0;
     top: 0;
-    
   }
-    
+  @media (min-width:768px)  {
+      .topnav a.icon {
+          display:none;
+      }
+  }
   .active {
     background-color: #04AA6D;
     color: darkslategrey;

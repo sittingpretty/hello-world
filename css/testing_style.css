@@ -19,7 +19,7 @@ body {
   .topnav #myLinks {
     display: none;
     text-align: center;
-  }
+      }
   
   .topnav a {
     color: white;
@@ -35,9 +35,12 @@ body {
     position: absolute;
     right: 0;
     top: 0;
+    
   }
   
-  
+  i {
+      visibility: hidden(min-width=768px);
+  }
   .active {
     background-color: #04AA6D;
     color: darkslategrey;

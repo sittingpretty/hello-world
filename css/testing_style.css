@@ -37,10 +37,7 @@ body {
     top: 0;
     
   }
-  
-  i {
-      visibility: hidden(min-width=768px);
-  }
+    
   .active {
     background-color: #04AA6D;
     color: darkslategrey;

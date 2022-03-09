@@ -6,6 +6,7 @@ body {
   text-align: justify;
   position: relative;
   font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
   }
 h1 {
   font-family: 'Mochiy Pop P One', sans-serif;

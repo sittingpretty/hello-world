@@ -12,3 +12,4 @@ CREATE TABLE customerInfo (
     dateCreated: TIMESTAMP NOT NULL DEFAULT NOW(),
     CONSTRAINT cID UNIQUE (customerID, customerName)
 );
+INSERT INTO customerInfo ()

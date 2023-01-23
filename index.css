@@ -76,6 +76,7 @@ p {
     border-radius: 7px;
     border: solid 3px #183326;
     margin-top: 15px;
+    box-shadow: 3px 6px 3px 0 black;
 }
 img {
     width: 100%;

@@ -1,4 +1,12 @@
-
+body {
+    background-color: #3c91d6;
+    color: black;
+    text-align:justify;
+}
+h1 {
+    text-align: center;
+    color: #151e33;
+}
 nav {
     position:fixed;
     margin:0;

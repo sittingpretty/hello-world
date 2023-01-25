@@ -3,6 +3,7 @@ body {
     color: black;
     text-align:justify;
     font-family: 'Patrick Hand', cursive;
+    margin: 0;
 }
 h1 {
     text-align: center;

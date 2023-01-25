@@ -10,6 +10,7 @@ h1 {
     color: #e6bf15;
     font-size: 3rem;
     font-family: 'Kalam', cursive;
+    text-shadow: -1px 1px 2px #f77f07;
 }
 nav {
     position: sticky;
@@ -38,6 +39,16 @@ li a:link {
 }
 li a:hover {
     color: black;
+}
+.front {
+    display: flex;
+    align-items: stretch;
+    justify-content:center;
+    flex-direction: row;
+    }
+#subtitle {
+    font-size: 1.5rem;
+    color: white;
 }
 .flex_container {
     display: flex;
@@ -79,7 +90,7 @@ p {
     margin-top: 15px;
     box-shadow: 3px 6px 3px 0 black;
 }
-img {
+.pics img {
     width: 100%;
     height: auto;
 }

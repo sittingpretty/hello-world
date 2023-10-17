@@ -98,5 +98,10 @@ p {
     border-radius: 7px;
     border: solid 3px #183326;
     margin-top: 15px;
+    margin-bottom: 10px;
     box-shadow: 3px 6px 3px 0 black;
+}
+.pics img {
+    width: 100%;
+    height: auto;
 }

@@ -100,13 +100,3 @@ p {
     margin-top: 15px;
     box-shadow: 3px 6px 3px 0 black;
 }
-.pics img {
-    width: 100%;
-    height: auto;
-}
-.image_two, #home:hover .image_one{
-    display: none;
-}
-.image_one, #home:hover .image_two {
-    display: block;
-}

@@ -104,3 +104,9 @@ p {
     width: 100%;
     height: auto;
 }
+.image_two, #home:hover .image_one{
+    display: none;
+}
+.image_one, #home:hover .image_two {
+    display: block;
+}
